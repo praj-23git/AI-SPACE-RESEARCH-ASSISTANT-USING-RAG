@@ -1,0 +1,66 @@
+ENTITY TYPE: SPACE AGENCY
+
+Organization: ISRO
+Full Name: Indian Space Research Organisation
+Country: India
+Established: August 15, 1969
+Founder / Founding Figure: Dr. Vikram A. Sarabhai
+Parent Department: Department of Space, Government of India
+Agency Type: National space agency
+
+OVERVIEW:
+ISRO is India's national space agency responsible for developing and operating space technology, launch vehicles, satellites, and scientific missions.
+
+FOUNDING:
+India's organized space activities began with the Indian National Committee for Space Research (INCOSPAR) in 1962.
+
+ISRO was formally established in 1969.
+
+Dr. Vikram A. Sarabhai is widely recognized by ISRO as the founder of the Indian space programme.
+
+ORGANIZATIONAL STRUCTURE:
+ISRO operates under India's Department of Space.
+
+The Space Commission and Department of Space were established in 1972, and ISRO was brought under the Department of Space.
+
+MAJOR AREAS:
+ISRO works in:
+
+- Satellite communications
+- Earth observation
+- Navigation
+- Meteorology
+- Space science
+- Planetary exploration
+- Launch vehicle development
+- Human spaceflight technology
+
+LAUNCH VEHICLES:
+Major launch vehicle families include:
+
+- PSLV
+- GSLV
+- LVM3
+
+MAJOR MISSIONS:
+Important missions include:
+
+- Aryabhata
+- Chandrayaan-1
+- Chandrayaan-2
+- Chandrayaan-3
+- Mars Orbiter Mission
+- Aditya-L1
+
+ACHIEVEMENTS:
+ISRO has developed indigenous satellite and launch technologies and has conducted successful lunar and interplanetary missions.
+
+Chandrayaan-3 demonstrated a successful lunar soft landing.
+
+Mangalyaan demonstrated India's interplanetary mission capabilities.
+
+KEY PERSON:
+Dr. Vikram A. Sarabhai is regarded by ISRO as the founder of the Indian space programme.
+
+KEY TERMS:
+ISRO, India, Vikram Sarabhai, INCOSPAR, PSLV, GSLV, LVM3, Chandrayaan, Mangalyaan.

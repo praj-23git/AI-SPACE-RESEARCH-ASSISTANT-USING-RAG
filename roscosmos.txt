@@ -1,0 +1,43 @@
+ENTITY TYPE: SPACE AGENCY
+
+Organization: Roscosmos
+Full Name: State Space Corporation Roscosmos
+Country: Russia
+Established as State Corporation: 2015
+Agency Type: Russian state space corporation
+
+OVERVIEW:
+Roscosmos is Russia's state space corporation responsible for major areas of Russia's civilian space activities.
+
+RESPONSIBILITIES:
+Roscosmos is involved in:
+
+- Launch vehicles
+- Spacecraft
+- Satellites
+- Human spaceflight
+- Space science
+- Earth observation
+- Space infrastructure
+
+HISTORICAL BACKGROUND:
+Russia's space program has roots in the Soviet space program.
+
+Major historical achievements associated with Soviet and Russian spaceflight include:
+
+- Sputnik 1
+- Vostok 1
+- Soyuz spacecraft
+- Soviet lunar and planetary missions
+
+HUMAN SPACEFLIGHT:
+Roscosmos has played a major role in human spaceflight and International Space Station operations.
+
+SOYUZ:
+Soyuz spacecraft and launch vehicles have been central to Russian human spaceflight for decades.
+
+SPACE EXPLORATION:
+Russian and Soviet missions have explored the Moon, Venus, Mars and other Solar System targets.
+
+KEY TERMS:
+Roscosmos, Russia, Soviet space program, Soyuz, Sputnik, Vostok, ISS, human spaceflight.

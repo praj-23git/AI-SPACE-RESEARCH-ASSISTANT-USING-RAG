@@ -1,0 +1,53 @@
+ENTITY TYPE: SPACE AGENCY
+
+Organization: JAXA
+Full Name: Japan Aerospace Exploration Agency
+Country: Japan
+Established: October 2003
+Agency Type: National research and development agency
+
+OVERVIEW:
+JAXA is Japan's national aerospace and space agency.
+
+FOUNDING:
+JAXA was established in October 2003 through the merger of three organizations:
+
+- Institute of Space and Astronautical Science (ISAS)
+- National Aerospace Laboratory (NAL)
+- National Space Development Agency of Japan (NASDA)
+
+JAXA became a National Research and Development Agency in 2015.
+
+AREAS OF ACTIVITY:
+JAXA works in:
+
+- Space science
+- Planetary exploration
+- Earth observation
+- Satellite technology
+- Launch vehicles
+- Human spaceflight
+- Astronomy
+- Space technology
+
+MAJOR MISSIONS:
+Important JAXA missions include:
+
+- Hayabusa
+- Hayabusa2
+- Akatsuki
+- SLIM
+- Hinode
+- ALOS
+
+HAYABUSA2:
+Hayabusa2 explored asteroid Ryugu and returned asteroid samples to Earth in 2020.
+
+INTERNATIONAL COOPERATION:
+JAXA participates in international space programs and cooperates with agencies including NASA and ESA.
+
+KEY TECHNOLOGIES:
+JAXA develops spacecraft, rockets, scientific instruments, Earth-observation systems, and deep-space exploration technologies.
+
+KEY TERMS:
+JAXA, Japan, Hayabusa2, Hayabusa, ISAS, NAL, NASDA, SLIM, Akatsuki.

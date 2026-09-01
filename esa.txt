@@ -1,0 +1,54 @@
+ENTITY TYPE: SPACE AGENCY
+
+Organization: ESA
+Full Name: European Space Agency
+Region: Europe
+Established: May 31, 1975
+Current Member States: 23
+Agency Type: Intergovernmental space organization
+Headquarters: Paris, France
+
+OVERVIEW:
+The European Space Agency is an intergovernmental organization dedicated to the peaceful exploration and use of space.
+
+FOUNDING:
+ESA was established in 1975.
+
+ESA brings European countries together to develop and operate space programs that would be difficult for individual countries to accomplish independently.
+
+AREAS OF ACTIVITY:
+ESA works in:
+
+- Space science
+- Earth observation
+- Human spaceflight
+- Telecommunications
+- Navigation
+- Launch systems
+- Planetary exploration
+- Astronomy
+- Space technology
+
+MAJOR PROGRAMS AND MISSIONS:
+Examples include:
+
+- Ariane launch systems
+- Rosetta
+- Gaia
+- Mars Express
+- Copernicus
+- Euclid
+- Solar Orbiter
+
+INTERNATIONAL COOPERATION:
+ESA works closely with NASA, JAXA, CSA and other international organizations.
+
+ESA is a major partner in the James Webb Space Telescope mission.
+
+ESA also contributes to the Artemis lunar exploration program.
+
+FACILITIES:
+ESA operates facilities and centers across Europe, including research, astronaut training, Earth observation, space operations and technology centers.
+
+KEY TERMS:
+ESA, European Space Agency, Europe, Ariane, Rosetta, Gaia, Mars Express, Copernicus, Webb.

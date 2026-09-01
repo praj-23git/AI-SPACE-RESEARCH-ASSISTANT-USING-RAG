@@ -1,0 +1,46 @@
+ENTITY TYPE: SPACE AGENCY
+
+Organization: CNSA
+Full Name: China National Space Administration
+Country: China
+Agency Type: Government space organization
+
+OVERVIEW:
+The China National Space Administration is China's governmental organization responsible for civilian satellite management and intergovernmental space cooperation.
+
+AREAS OF ACTIVITY:
+China's space program includes:
+
+- Earth observation
+- Communications satellites
+- Navigation
+- Launch vehicles
+- Human spaceflight
+- Lunar exploration
+- Planetary exploration
+- Space science
+
+MAJOR PROGRAMS:
+Important Chinese space programs include:
+
+- Chang'e lunar exploration program
+- Tianwen planetary exploration program
+- Tiangong space station
+- BeiDou navigation system
+
+LUNAR EXPLORATION:
+The Chang'e program has conducted multiple lunar missions.
+
+Chang'e-4 achieved the first soft landing on the far side of the Moon.
+
+MARS EXPLORATION:
+The Tianwen-1 mission successfully placed a spacecraft into Mars orbit and delivered the Zhurong rover to the Martian surface.
+
+HUMAN SPACEFLIGHT:
+China operates the Tiangong space station and conducts crewed spaceflight missions.
+
+INTERNATIONAL COOPERATION:
+CNSA participates in international and intergovernmental space cooperation.
+
+KEY TERMS:
+CNSA, China, Chang'e, Tianwen, Zhurong, Tiangong, BeiDou, lunar exploration, Mars.

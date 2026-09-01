@@ -1,0 +1,64 @@
+ENTITY TYPE: SPACE AGENCY
+
+Organization: NASA
+Full Name: National Aeronautics and Space Administration
+Country: United States
+Agency Type: Civilian space agency
+Established: 1958
+Official Operations Began: October 1, 1958
+Predecessor: National Advisory Committee for Aeronautics (NACA)
+First Administrator: T. Keith Glennan
+
+OVERVIEW:
+NASA is the United States government agency responsible for civilian space exploration, aeronautics research, and related scientific and technological activities.
+
+FOUNDING:
+The National Aeronautics and Space Act of 1958 established NASA.
+
+The legislation was signed by President Dwight D. Eisenhower on July 29, 1958.
+
+NASA officially began operations on October 1, 1958.
+
+NASA was created partly from the existing National Advisory Committee for Aeronautics.
+
+IMPORTANT PROGRAMS:
+NASA has operated or led major programs including:
+
+- Mercury
+- Gemini
+- Apollo
+- Space Shuttle
+- International Space Station
+- Artemis
+
+MAJOR AREAS:
+NASA works in:
+
+- Human spaceflight
+- Planetary exploration
+- Earth science
+- Astrophysics
+- Heliophysics
+- Aeronautics
+- Space technology
+
+MAJOR MISSIONS:
+Examples include:
+
+- Apollo 11
+- Mars Perseverance
+- OSIRIS-REx
+- James Webb Space Telescope
+- Voyager
+- Artemis
+
+INTERNATIONAL COOPERATION:
+NASA works with international space agencies and commercial aerospace companies on scientific missions, human spaceflight, and space exploration.
+
+KEY PEOPLE:
+Dwight D. Eisenhower signed the legislation creating NASA.
+
+T. Keith Glennan was NASA's first administrator.
+
+KEY TERMS:
+NASA, United States, National Aeronautics and Space Administration, NACA, Apollo, Artemis, space exploration.
