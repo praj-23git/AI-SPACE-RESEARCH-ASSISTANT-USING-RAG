@@ -148,7 +148,8 @@ A space-themed Flask web interface provides:
 
 The SpaceRAG interface provides a simple space-themed interface for asking questions about missions, spacecraft, agencies, and scientific research.
 
-![SpaceRAG Main Interface](screenshots/main-interface.png)
+<img width="929" height="374" alt="image" src="https://github.com/user-attachments/assets/088d57fd-6fd5-4930-8343-ff3b024fbd71" />
+
 
 ---
 
@@ -156,7 +157,9 @@ The SpaceRAG interface provides a simple space-themed interface for asking quest
 
 The assistant retrieves relevant knowledge and generates an evidence-grounded response using Gemma 2B.
 
-![RAG Research Answer](screenshots/rag-answer.png)
+<img width="735" height="392" alt="image copy" src="https://github.com/user-attachments/assets/ea5b6ba5-3332-4463-8f9c-02102b166c44" />
+
+
 
 ---
 
@@ -164,4 +167,5 @@ The assistant retrieves relevant knowledge and generates an evidence-grounded re
 
 Research-oriented questions can retrieve relevant scientific papers through OpenAlex. The interface displays paper metadata along with links to the available paper or PDF.
 
-![Research Papers](screenshots/research-papers.png)
+<img width="886" height="500" alt="image copy 3" src="https://github.com/user-attachments/assets/a86cdb0c-cb92-4e11-8a28-05d05af69481" />
+
