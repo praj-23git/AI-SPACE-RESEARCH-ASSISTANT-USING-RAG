@@ -57,6 +57,105 @@ Gemma 2B
         ↓
 Generated Answer
 ```
+## Part 2 — Connecting OpenAlex for Scientific Research
+
+After successfully building and testing the local RAG system, the second part of the project focused on extending it with an external scientific research source.
+
+I integrated the **OpenAlex API** to dynamically search for relevant scientific research papers based on the user's question. The system retrieves information such as:
+
+- Paper title
+- Authors
+- Publication year
+- Citation count
+- Open-access availability
+- Paper URL
+- PDF URL when available
+
+The retrieved research papers are then processed to find relevant research passages. These passages are provided to the RAG pipeline as additional evidence along with the information retrieved from the local knowledge base.
+
+This allowed the system to answer research-oriented questions using both the **local space-mission knowledge base** and **scientific research literature**.
+
+### Extended RAG Pipeline
+
+```text
+User Question
+      ↓
+Local Knowledge Base + OpenAlex Research Search
+      ↓
+FAISS Retrieval + Research Papers
+      ↓
+Relevant Research Evidence
+      ↓
+Gemma 2B
+      ↓
+Generated Answer
+      ↓
+Knowledge Base Evidence + Research Papers
+```
+## 🏗️ System Architecture
+
+The system combines a local knowledge base, FAISS vector search, OpenAlex research retrieval, and Gemma 2B to generate evidence-grounded answers.
+
+```text
+                         ┌─────────────────────┐
+                         │        User         │
+                         │    Enters Question  │
+                         └──────────┬──────────┘
+                                    │
+                                    ▼
+                         ┌─────────────────────┐
+                         │      Flask App      │
+                         │       /ask API      │
+                         └──────────┬──────────┘
+                                    │
+                    ┌───────────────┴───────────────┐
+                    │                               │
+                    ▼                               ▼
+          ┌──────────────────┐            ┌──────────────────┐
+          │ Local Knowledge  │            │     OpenAlex     │
+          │      Base        │            │  Research Search │
+          └────────┬─────────┘            └────────┬─────────┘
+                   │                               │
+                   ▼                               ▼
+          ┌──────────────────┐            ┌──────────────────┐
+          │    Sentence      │            │ Research Papers  │
+          │    Transformer   │            │    & Metadata    │
+          │    Embeddings    │            └────────┬─────────┘
+          └────────┬─────────┘                     │
+                   │                               ▼
+                   ▼                      ┌──────────────────┐
+          ┌──────────────────┐            │    Research      │
+          │      FAISS       │            │    Passages      │
+          │ Semantic Search  │            │    Retrieval     │
+          └────────┬─────────┘            └────────┬─────────┘
+                   │                               │
+                   └───────────────┬───────────────┘
+                                   │
+                                   ▼
+                        ┌─────────────────────┐
+                        │  Retrieved Evidence │
+                        │ Local + Research    │
+                        └──────────┬──────────┘
+                                   │
+                                   ▼
+                        ┌─────────────────────┐
+                        │      Gemma 2B       │
+                        │   via Ollama        │
+                        └──────────┬──────────┘
+                                   │
+                                   ▼
+                        ┌─────────────────────┐
+                        │   Generated Answer  │
+                        └──────────┬──────────┘
+                                   │
+                     ┌─────────────┴─────────────┐
+                     │                           │
+                     ▼                           ▼
+          ┌────────────────────┐       ┌────────────────────┐
+          │ Knowledge Base     │       │  Research Papers   │
+          │ Evidence           │       │  & Paper Links     │
+          └────────────────────┘       └────────────────────┘
+```
 # 📸 Screenshots
 
 ### Main Interface
